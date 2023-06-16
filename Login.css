@@ -13,7 +13,7 @@
         <style>
             /*CSS Reset*/
             * {
-                margin: 0px;
+                margin:  0px;
                 padding: 0px;
             }
             /*Styling the body*/
@@ -28,7 +28,7 @@ https://write.geeksforgeeks.org/wp-content/uploads/space_background_for_infinite
             h1 {
                 border-bottom: 3px solid blue;
                 margin-bottom: 10px;
-                color: black;
+                color: blue;
                 font-weight: bold;
                 background: none;
                 margin-right: 105px;
