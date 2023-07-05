@@ -18,8 +18,7 @@
             }
             /*Styling the body*/
             body {
-                background: url(
-https://write.geeksforgeeks.org/wp-content/uploads/space_background_for_infinite_scroll_example.png)
+                background: 
                   no-repeat center center fixed;
                 background-size: cover;
             }
